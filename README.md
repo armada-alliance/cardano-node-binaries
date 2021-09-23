@@ -9,7 +9,7 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 
 ### Latest dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
 [1.29.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.29.0/cardano-1_29_0-aarch64-ubuntu_2004.zip?raw=true) (Official)
-[1.30.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.0/cardano-1_30_0-aarch64-ubuntu_2004.zip?raw=true) (Unofficial)
+[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true) (Unofficial)
 
 [Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.29.0/README.MD)
 
