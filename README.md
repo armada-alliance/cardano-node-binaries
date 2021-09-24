@@ -19,7 +19,7 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 
 ##
 ### Alonzo Purple Testnet
-[1.30.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.0/cardano-1_30_0-aarch64-ubuntu_2004.zip?raw=true)
+[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true)
 
 ### Alonzo Testnet Configuration Files
 [Alonzo Purple Configuration](https://hydra.iohk.io/build/7366583/download/1/index.html)

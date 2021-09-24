@@ -2,7 +2,7 @@
 
 Cardano 1.30.1 binaries built via Ubuntu 20.04 (glibc-2.31)
 
-Contains network config and alonzo genesis files for mainnet and the public testnet.
+Contains network config and alonzo genesis files for mainnet, testnet and the alonzo purple testnet.
 
 ## Requires libsodium
 
