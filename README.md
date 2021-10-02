@@ -7,18 +7,31 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 ### Latest static build (Compatible for all arm based linux. Recommended)
 [1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true) (Official)
 
+```
+wget -O 1_30_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true
+```
+##
 ### Latest dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
 [1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
 
+```
+wget -O cardano-1_30_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true
+```
+
 [Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/README.MD)
 
+##
 ### Current Configuration files for the Cardano Blockchain Protocol
 
-[Cardano Configurations](https://hydra.iohk.io/job/Cardano/iohk-nix/cardano-deployment/latest-finished/download/1/index.html)
+[Cardano Configuration Files](https://hydra.iohk.io/build/7654130/download/1/index.html)
 
 ##
-### Alonzo Purple Testnet
+### Alonzo Purple Testnet build
 [1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true)
 
-### Alonzo Testnet Configuration Files
-[Alonzo Purple Configuration](https://hydra.iohk.io/build/7366583/download/1/index.html)
+### Alonzo Purple Testnet Configuration Files
+[Alonzo Purple Configuration Files](https://hydra.iohk.io/build/7366583/download/1/index.html)
+
+##
+### Latest Unnoffical Mainnet/Testnet Configuration Files
+[Latest Configuration Files](https://hydra.iohk.io/job/Cardano/iohk-nix/cardano-deployment/latest-finished/download/1/index.html)
