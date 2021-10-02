@@ -5,7 +5,7 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 
 ##
 ### Latest static build (Compatible for all arm based linux. Recommended)
-[1.29.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_29_0.zip?raw=true)
+[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true)
 
 ### Latest dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
 [1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
