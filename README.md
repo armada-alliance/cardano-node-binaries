@@ -10,6 +10,13 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 ```
 wget -O 1_30_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true
 ```
+
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true) (Latest unofficial)
+
+```
+wget -O 1_31_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true
+```
+
 ##
 ### Latest dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
 [1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
@@ -18,7 +25,13 @@ wget -O 1_30_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 wget -O cardano-1_30_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/README.MD)
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true) (Latest unofficial)
+
+```
+wget -O cardano-1_31_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true
+```
+
+[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/README.MD)
 
 ##
 ### Current Configuration files for the Cardano Blockchain Protocol
@@ -27,7 +40,7 @@ wget -O cardano-1_30_1-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 
 ##
 ### Alonzo Purple Testnet build
-[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true)
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true)
 
 ### Alonzo Purple Testnet Configuration Files
 [Alonzo Purple Configuration Files](https://hydra.iohk.io/build/7366583/download/1/index.html)
