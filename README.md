@@ -5,13 +5,13 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 
 ##
 ### Latest static build (Compatible for all arm based linux. Recommended)
-[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true) (Official)
+[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true) (Official)
 
 ```
-wget -O 1_30_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_30_1.zip?raw=true
+wget -O 1_31_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true
 ```
 
-[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true) (Latest unofficial)
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true) (Latest)
 
 ```
 wget -O 1_31_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_31_0.zip?raw=true
@@ -19,13 +19,13 @@ wget -O 1_31_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 
 ##
 ### Latest dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
-[1.30.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true) (Official)
 
 ```
-wget -O cardano-1_30_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.30.1/cardano-1_30_1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_31_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true) (Latest unofficial)
+[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true) (Latest)
 
 ```
 wget -O cardano-1_31_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true
