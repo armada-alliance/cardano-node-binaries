@@ -1,7 +1,14 @@
 ##
 ***A repo where we will keep various versions of the cardano node and cli binaries built for ARM CPUs*** 🏴‍☠️🦾
 
-Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance.com/stake-pools/cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0), [PIADA](https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65), Stake Pool Operators and our friend [Daniel](https://github.com/rekuenkdr)!!
+BIG Thanks to SPO's [ZW3RK](https://twitter.com/zw3rkpool/) who provides the amazing Static Binaries, [SRN](https://armada-alliance.com/stake-pools/cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0) who provides dynamic builds and maintains repo with [PIADA](https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65) and our friend [Daniel](https://github.com/rekuenkdr) ₳🏴‍☠️🙏
+## Cardano Node RTS Parameter Notebook
+
+**This contains information about various run time optimizations Armada Alliance SPOs are using to improve their cardano-node's performance by adjusting various Haskell GHC RTS settings**
+
+***[Cardano RTS Notebook](https://docs.google.com/spreadsheets/d/1sw_fzqoubOEG6lMpWKVzCF8yISfY4YFAvnx_5E5T-1s/edit#gid=0)***
+
+Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf99120e97aedf84e706e43d829ddc610ad667a85a3) for setting it up and all our members who have contributed 🙏🏴‍☠️
 
 ##
 ### Static build (Compatible for all arm based linux. Recommended)
