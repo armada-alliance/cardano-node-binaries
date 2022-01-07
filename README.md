@@ -5,24 +5,24 @@ Thanks to [ZW3RK](https://twitter.com/zw3rkpool/), [SRN](https://armada-alliance
 
 ##
 ### Static build (Compatible for all arm based linux. Recommended)
-[1.32.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_32_1.zip?raw=true) (Official)
+[1.33.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_33_0.zip?raw=true) (Official)
 
 ```
-wget -O 1_32_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_32_1.zip?raw=true
+wget -O 1_33_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_33_0.zip?raw=true
 ```
 
-[1.32.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_32_1.zip?raw=true) (Latest)
+[1.33.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_33_0.zip?raw=true) (Latest)
 
 ```
-wget -O 1_32_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_32_1.zip?raw=true
+wget -O 1_33_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_33_0.zip?raw=true
 ```
 
 ##
 ### Dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
-[1.32.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.32.1/cardano-1_32_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
+[1.33.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true) (Official)
 
 ```
-wget -O cardano-1_32_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.32.1/cardano-1_32_1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_33_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true
 ```
 
 [1.33.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true) (Latest)
