@@ -32,13 +32,13 @@ wget -O 1_33_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 wget -O cardano-1_33_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[1.33.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true) (Latest)
+[1.33.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.1/cardano-1_33_1-aarch64-ubuntu_2004.zip?raw=true) (Latest)
 
 ```
-wget -O cardano-1_33_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/cardano-1_33_0-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_33_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.1/cardano-1_33_1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/README.MD)
+[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/README.MD)
 
 ##
 ### Current Configuration files for the Cardano Blockchain Protocol
