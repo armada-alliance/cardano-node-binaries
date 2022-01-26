@@ -38,6 +38,12 @@ wget -O cardano-1_33_0-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 wget -O cardano-1_33_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.1/cardano-1_33_1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
+[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.1/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.33.1)
+
+```
+wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.1/cardano-submit-api.zip?raw=true
+```
+
 [Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.33.0/README.MD)
 
 ##
