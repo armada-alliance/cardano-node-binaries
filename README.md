@@ -12,7 +12,7 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 
 ##
 ### Static build (Compatible for all arm based linux. Recommended)
-[1.34.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_0.zip?raw=true) (Official)
+[1.34.0 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_0.zip?raw=true) (Official)
 
 ```
 wget -O 1_34_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_0.zip?raw=true
