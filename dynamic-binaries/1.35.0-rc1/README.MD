@@ -75,7 +75,7 @@ git reset --hard $SECP256K1_REF
 make
 
 sudo make install
-
+```
 
 For those who run cardano-node as a systemd service, run the following:
 
