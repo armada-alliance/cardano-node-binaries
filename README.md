@@ -12,10 +12,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 
 ##
 ### Static build (Compatible for all arm based linux. Recommended)
-[1.34.0 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_0.zip?raw=true) (Official)
+[1.34.1 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_1.zip?raw=true) (Official)
 
 ```
-wget -O 1_34_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_0.zip?raw=true
+wget -O 1_34_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_1.zip?raw=true
 ```
 
 [1.34.1 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_1.zip?raw=true) (Latest)
@@ -26,37 +26,34 @@ wget -O 1_34_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 
 ##
 ### Dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
-[1.34.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.0/cardano-1_34_0-aarch64-ubuntu_2004.zip?raw=true) (Official)
-
-```
-wget -O cardano-1_34_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.0/cardano-1_34_0-aarch64-ubuntu_2004.zip?raw=true
-```
-
-[1.34.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-1_34_1-aarch64-ubuntu_2004.zip?raw=true) (Latest)
+[1.34.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-1_34_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
 
 ```
 wget -O cardano-1_34_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-1_34_1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.0/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.34.0)
+[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/README.MD)
+
+[1.35.0-rc1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc1/cardano-1_35_0_rc1-aarch64-ubuntu_2004.zip?raw=true) (Latest experimental build)
 
 ```
-wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.0/cardano-submit-api.zip?raw=true
+wget -O cardano-1_35_0_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc1/cardano-1_35_0_rc1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.0/README.MD)
+[Building Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc1/README.MD)
+
+[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.34.1)
+
+```
+wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-submit-api.zip?raw=true
+```
+
 
 ##
 ### Current Configuration files for the Cardano Blockchain Protocol
 
 [Cardano Configuration Files](https://hydra.iohk.io/build/7654130/download/1/index.html)
 
-##
-### Alonzo Purple Testnet build (deprecated)
-[1.31.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.31.0/cardano-1_31_0-aarch64-ubuntu_2004.zip?raw=true)
-
-### Alonzo Purple Testnet Configuration Files (deprecated)
-[Alonzo Purple Configuration Files](https://hydra.iohk.io/build/7366583/download/1/index.html)
 
 ##
 ### Latest Unnoffical Mainnet/Testnet Configuration Files
