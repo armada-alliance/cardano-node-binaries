@@ -58,7 +58,7 @@ wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-b
 wget -O vasil_testnet_v1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/vasil_testnet_v1.zip?raw=true
 ```
 
-### Dynamic
+### Dynamic (Requires [Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc1/README.MD)) 
 [vasil-testnet-v1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/vasil-testnet-v1/cardano-vasil_testnet_v1-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
