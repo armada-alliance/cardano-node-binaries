@@ -18,10 +18,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -O 1_34_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_34_1.zip?raw=true
 ```
 
-[1.35.0-rc2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_0-rc2.zip?raw=true) (Latest experimental build)
+[1.35.0-rc3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_0-rc3.zip?raw=true) (Latest experimental build)
 
 ```
-wget -O 1_35_0-rc2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_0-rc2.zip?raw=true
+wget -O 1_35_0-rc3.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_0-rc3.zip?raw=true
 ```
 
 ##
