@@ -34,13 +34,13 @@ wget -O cardano-1_34_1-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 
 [Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/README.MD)
 
-[1.35.0-rc3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc3/cardano-1_35_0_rc3-aarch64-ubuntu_2004.zip?raw=true) (Latest experimental build)
+[1.35.0-rc4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc4/cardano-1_35_0_rc4-aarch64-ubuntu_2004.zip?raw=true) (Latest experimental build)
 
 ```
-wget -O cardano-1_35_0_rc3-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc3/cardano-1_35_0_rc3-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_35_0_rc4-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc4/cardano-1_35_0_rc4-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc3/cardano-additional-binaries-1_35_0_rc3-aarch64-ubuntu_2004.zip?raw=true)
+[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc4/cardano-additional-binaries-1_35_0_rc4-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
 wget -O cardano-1_35_0_rc3-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0-rc3/cardano-additional-binaries-1_35_0_rc3-aarch64-ubuntu_2004.zip?raw=true
