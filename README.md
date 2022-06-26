@@ -25,14 +25,12 @@ wget -O 1_35_0-rc3.zip https://github.com/armada-alliance/cardano-node-binaries/
 ```
 
 ##
-### Dynamic build (Ubuntu 20.04 and above. Requires libsodium.)
+### Dynamic build (Ubuntu 20.04 and above. Requires [Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/README.MD).)
 [1.34.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-1_34_1-aarch64-ubuntu_2004.zip?raw=true) (Official)
 
 ```
 wget -O cardano-1_34_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-1_34_1-aarch64-ubuntu_2004.zip?raw=true
 ```
-
-[Building Libsodium](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/README.MD)
 
 [1.35.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/cardano-1_35_0-aarch64-ubuntu_2004.zip?raw=true) (Latest official)
 
@@ -45,8 +43,6 @@ wget -O cardano-1_35_0-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 ```
 wget -O cardano-1_35_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/cardano-additional-binaries-1_35_0-aarch64-ubuntu_2004.zip?raw=true
 ```
-
-[Building Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/README.MD)
 
 [cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.0)
 
