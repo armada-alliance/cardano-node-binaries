@@ -32,22 +32,22 @@ wget -O 1_35_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 wget -O cardano-1_35_0-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.0/cardano-1_35_0-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[1.35.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-1_35_1-aarch64-ubuntu_2004.zip?raw=true) (Latest)
+[1.35.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true) (Latest)
 
 ```
-wget -O cardano-1_35_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-1_35_1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_35_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-additional-binaries-1_35_1-aarch64-ubuntu_2004.zip?raw=true)
+[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-additional-binaries-1_35_2-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
-wget -O cardano-1_35_1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-additional-binaries-1_35_1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-additional-binaries-1_35_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-additional-binaries-1_35_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.1)
+[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.2)
 
 ```
-wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.1/cardano-submit-api.zip?raw=true
+wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-submit-api.zip?raw=true
 ```
 
 ##
