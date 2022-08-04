@@ -6,8 +6,13 @@ Contains network config and alonzo genesis files for mainnet and testnet.
 
 ## Requires libsodium and secp256k1
 
-### Instructions to install libsodium
 
+### Prerequisites for Ubuntu
+
+```
+sudo apt install automake build-essential pkg-config libffi-dev libgmp-dev libssl-dev libtinfo-dev libsystemd-dev zlib1g-dev make g++ tmux git jq wget libncursesw5 libtool autoconf liblmdb-dev -y
+```
+### Instructions to install libsodium
 Create a working directory for your builds:
 
 ```
@@ -45,12 +50,6 @@ source ~/.bashrc
 ```
 
 ### Instructions to install secp256k1
-
-Ensure the following are installed if on Ubuntu
-
-```
-sudo apt install autoconf automake libtool
-```
 
 Create a working directory if you have not already
 
