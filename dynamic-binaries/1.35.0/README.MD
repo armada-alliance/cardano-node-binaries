@@ -19,6 +19,7 @@ Create a working directory for your builds:
 mkdir -p ~/src
 
 cd ~/src
+
 ```
 
 Download and install libsodium:
@@ -37,6 +38,7 @@ git checkout 66f017f1
 make
 
 sudo make install
+
 ```
 
 Add the following to your .bashrc file and source it:
@@ -47,6 +49,7 @@ echo "export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"" >> ~/.bashrc
 echo "export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH"" >> ~/.bashrc
 
 source ~/.bashrc
+
 ```
 
 ### Instructions to install secp256k1
@@ -55,7 +58,9 @@ Create a working directory if you have not already
 
 ```
 mkdir -p ~/src
+
 cd ~/src
+
 ```
 
 Download and install secp256k1
@@ -74,12 +79,14 @@ git reset --hard $SECP256K1_REF
 make
 
 sudo make install
+
 ```
 
 For those who run cardano-node as a systemd service, run the following:
 
 ```
 sudo ldconfig
+
 ```
 
 This ensures the system is aware of libsodium and secp256k1 (not just at the user level).
