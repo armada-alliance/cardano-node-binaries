@@ -44,9 +44,9 @@ sudo make install
 Add the following to your .bashrc file and source it:
 
 ```
-echo "export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"" >> ~/.bashrc
+echo "export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib"" >> ~/.bashrc
 
-echo "export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH"" >> ~/.bashrc
+echo "export PKG_CONFIG_PATH="$PKG_CONFIG_PATH:/usr/local/lib/pkgconfig"" >> ~/.bashrc
 
 source ~/.bashrc
 
