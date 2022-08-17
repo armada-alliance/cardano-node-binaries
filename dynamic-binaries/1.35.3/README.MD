@@ -11,7 +11,19 @@ Contains network config and alonzo genesis files for mainnet and testnet.
 
 ```
 sudo apt install automake build-essential pkg-config libffi-dev libgmp-dev libssl-dev libtinfo-dev libsystemd-dev zlib1g-dev make g++ tmux git jq wget libncursesw5 libtool autoconf liblmdb-dev -y
+
 ```
+### For Ubuntu 22.04 LTS fresh install (missing libssl.so.1.1)
+
+```
+wget http://ports.ubuntu.com/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_arm64.deb
+
+sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2_arm64.deb
+
+rm libssl1.1_1.1.1f-1ubuntu2_arm64.deb
+
+```
+
 ### Instructions to install libsodium
 Create a working directory for your builds:
 
