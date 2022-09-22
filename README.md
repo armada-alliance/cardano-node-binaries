@@ -29,13 +29,13 @@ wget -O 1_35_3.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 [bech32 1.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_2.zip?raw=true)
 
 ```
-wget -O 1_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_2.zip?raw=true
+wget -O bech32-1_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_2.zip?raw=true
 ```
 
 [cardano-wallet-v2022-08-16](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-08-16.zip?raw=true)
 
 ```
-wget -O 1_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-08-16.zip?raw=true
+wget -O cardano-wallet-v2022-08-16.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-08-16.zip?raw=true
 ```
 
 ### Dynamic build (Ubuntu 20.04 and above. Requires [Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3/README.MD).)
