@@ -30,10 +30,10 @@ wget -O 1_35_3.zip https://github.com/armada-alliance/cardano-node-binaries/blob
 wget -O bech32-1_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_2.zip?raw=true
 ```
 
-[cardano-wallet-v2022-08-16](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-08-16.zip?raw=true)
+[cardano-wallet-v2022-10-06](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-10-06.zip?raw=true)
 
 ```
-wget -O cardano-wallet-v2022-08-16.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-08-16.zip?raw=true
+wget -O cardano-wallet-v2022-10-06.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2022-10-06.zip?raw=true
 ```
 
 ##
