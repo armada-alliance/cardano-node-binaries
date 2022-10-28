@@ -52,10 +52,10 @@ wget -O cardano-1_35_3-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 wget -O cardano-1_35_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[1.35.3-rc1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3-rc1/cardano-1_35_3_rc1-aarch64-ubuntu_2004.zip?raw=true) (Vasil-dev Testnet)
+[1.35.4-rc1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true) (Testing and development)
 
 ```
-wget -O cardano-1_35_3_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3-rc1/cardano-1_35_3_rc1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true
 ```
 
 ### Additional dynamic binaries
@@ -74,12 +74,16 @@ wget -O cardano-additional-binaries-1_35_2-aarch64-ubuntu_2004.zip https://githu
 
 ##
 
-### Current Configuration files for the Cardano Blockchain Protocol
+### Current Network Configuration files for the Cardano Blockchain Protocol
 
 [Cardano Configuration Files](https://hydra.iohk.io/build/7654130/download/1/index.html)
 
 ##
 
-### Latest Unnoffical Mainnet/Testnet Configuration Files
+### Latest Mainnet/Testnet Network Configuration Files
 
 [Latest Configuration Files](https://hydra.iohk.io/job/Cardano/iohk-nix/cardano-deployment/latest-finished/download/1/index.html)
+
+##
+
+### The official Cardano Environment configuration files can be found [here](https://book.world.dev.cardano.org/environments.html)
