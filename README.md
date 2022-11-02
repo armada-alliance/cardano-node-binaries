@@ -52,10 +52,10 @@ wget -O cardano-1_35_3-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 wget -O cardano-1_35_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[1.35.4-rc1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true) (Testing and development)
+[1.35.4-rc2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc2/cardano-1_35_4_rc2-aarch64-ubuntu_2004.zip?raw=true) (Testing and development)
 
 ```
-wget -O cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-1_35_4_rc2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc2/cardano-1_35_4_rc2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
 ### Additional dynamic binaries
@@ -66,10 +66,10 @@ wget -O cardano-1_35_4_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-all
 wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.34.1/cardano-submit-api.zip?raw=true
 ```
 
-[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-additional-binaries-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true) (Built with cardano-node-1.35.4-rc1)
+[cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc2/cardano-additional-binaries-1_35_4_rc2-aarch64-ubuntu_2004.zip?raw=true) (Built with cardano-node-1.35.4-rc2)
 
 ```
-wget -O cardano-additional-binaries-1_35_4_rc1-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc1/cardano-additional-binaries-1_35_4_rc1-aarch64-ubuntu_2004.zip?raw=true
+wget -O cardano-additional-binaries-1_35_4_rc2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4-rc2/cardano-additional-binaries-1_35_4_rc2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
 ##
