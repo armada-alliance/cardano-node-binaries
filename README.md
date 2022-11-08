@@ -38,7 +38,7 @@ wget -O cardano-wallet-v2022-10-06.zip https://github.com/armada-alliance/cardan
 
 ##
 
-### Dynamic build (Ubuntu 20.04 and above. Requires [Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3/README.MD).)
+### Dynamic build (Ubuntu 20.04 and above. Requires [Libsodium and SECP256K1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/README.MD).)
 
 [1.35.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3/cardano-1_35_3-aarch64-ubuntu_2004.zip?raw=true) (Mainnet)
 
@@ -78,6 +78,6 @@ wget -O cardano-additional-binaries-1_35_4-aarch64-ubuntu_2004.zip https://githu
 
 ##
 
-### Latest Mainnet/Testnet Network Configuration Files
+### Latest mainnet/testnet network environment configuration files
 
 [Latest Configuration Files](https://hydra.iohk.io/job/Cardano/iohk-nix/cardano-deployment/latest-finished/download/1/index.html)
