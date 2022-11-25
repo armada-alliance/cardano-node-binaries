@@ -16,10 +16,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 
 ### Static build (Compatible for all arm based linux. Recommended)
 
-[1.35.3 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_3.zip?raw=true) (Mainnet)
+[1.35.4 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_4.zip?raw=true) (Mainnet)
 
 ```
-wget -O 1_35_3.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_3.zip?raw=true
+wget -O 1_35_4.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/1_35_4.zip?raw=true
 ```
 
 ### Additional static binaries
@@ -40,19 +40,7 @@ wget -O cardano-wallet-v2022-10-06.zip https://github.com/armada-alliance/cardan
 
 ### Dynamic build (Ubuntu 20.04 LTS and above. Requires [Libsodium, SECP256K1 and libssl.so.1.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/README.MD).)
 
-[1.35.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3/cardano-1_35_3-aarch64-ubuntu_2004.zip?raw=true) (Mainnet)
-
-```
-wget -O cardano-1_35_3-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.3/cardano-1_35_3-aarch64-ubuntu_2004.zip?raw=true
-```
-
-[1.35.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true) (Public Testnet)
-
-```
-wget -O cardano-1_35_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.2/cardano-1_35_2-aarch64-ubuntu_2004.zip?raw=true
-```
-
-[1.35.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/cardano-1_35_4-aarch64-ubuntu_2004.zip?raw=true) (Latest release)
+[1.35.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/cardano-1_35_4-aarch64-ubuntu_2004.zip?raw=true) (Mainnet)
 
 ```
 wget -O cardano-1_35_4-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/cardano-1_35_4-aarch64-ubuntu_2004.zip?raw=true
