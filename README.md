@@ -54,6 +54,12 @@ wget -O cardano-1_35_4-aarch64-ubuntu_2004.zip https://github.com/armada-allianc
 wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/cardano-submit-api.zip?raw=true
 ```
 
+[cardano-wallet-v2022-12-14](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2022-12-14-aarch64-ubuntu_2004.zip?raw=true)
+
+```
+wget -O cardano-wallet-v2022-12-14-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2022-12-14-aarch64-ubuntu_2004.zip?raw=true
+```
+
 [cardano-node-chairman/cardano-topology/cardano-testnet](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.4/cardano-additional-binaries-1_35_4-aarch64-ubuntu_2004.zip?raw=true) (Built with cardano-node-1.35.4)
 
 ```
