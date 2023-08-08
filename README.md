@@ -58,6 +58,12 @@ wget -O cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip https://github.com/armada-
 wget -O cardano-8_2_0_pre-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.0/cardano-8_2_0_pre-aarch64-ubuntu_2004.zip?raw=true
 ```
 
+[8.2.1-pre](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true) (SanchoNet/Public preview test)
+
+```
+wget -O cardano-8_2_1_pre-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true
+```
+
 ### Additional dynamic binaries
 
 [cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.6/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.6)
