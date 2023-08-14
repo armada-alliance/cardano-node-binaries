@@ -16,10 +16,16 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 
 ### Static build (Compatible for all arm based linux. Recommended)
 
-[8.1.2 with cardano-submit-api](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true) (Mainnet)
+[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true) (Mainnet)
 
 ```
 wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
+```
+
+[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true) (Mainnet)
+
+```
+wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true
 ```
 
 ### Additional static binaries
@@ -50,12 +56,6 @@ wget -O cardano-8_1_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance
 
 ```
 wget -O cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true
-```
-
-[8.2.0-pre](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.0/cardano-8_2_0_pre-aarch64-ubuntu_2004.zip?raw=true) (SanchoNet/Public preview test)
-
-```
-wget -O cardano-8_2_0_pre-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.0/cardano-8_2_0_pre-aarch64-ubuntu_2004.zip?raw=true
 ```
 
 [8.2.1-pre](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true) (SanchoNet/Public preview test)
