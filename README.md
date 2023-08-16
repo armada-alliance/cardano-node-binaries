@@ -28,6 +28,18 @@ wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/
 wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true
 ```
 
+[8.2.1-pre with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip?raw=true) (SanchoNet/Public preview test)
+
+```
+wget -O cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip?raw=true
+```
+
+[8.2.1-pre with ghc-9.6.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip?raw=true) (SanchoNet/Public preview test)
+
+```
+wget -O cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip?raw=true
+```
+
 ### Additional static binaries
 
 [bech32 1.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_2.zip?raw=true)
