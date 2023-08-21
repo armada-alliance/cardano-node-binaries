@@ -15,30 +15,37 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ##
 
 ### Static build (Compatible for all arm based linux. Recommended)
+#### Mainnet/Preprod/Preview
 
-[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true) (Mainnet)
+[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true)
 
 ```
 wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
 ```
 
-[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true) (Mainnet)
+[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true
 ```
 
-[8.2.1-pre with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip?raw=true) (SanchoNet/Public preview test)
+##
+
+#### SanchoNet/Preprod/Preview
+
+[8.2.1-pre with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip?raw=true)
 
 ```
 wget -O cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_928.zip?raw=true
 ```
 
-[8.2.1-pre with ghc-9.6.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip?raw=true) (SanchoNet/Public preview test)
+[8.2.1-pre with ghc-9.6.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip?raw=true)
 
 ```
 wget -O cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_2_1_pre-aarch64-static-musl-ghc_962.zip?raw=true
 ```
+
+##
 
 ### Additional static binaries
 
@@ -57,24 +64,31 @@ wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-al
 ##
 
 ### Dynamic build (Ubuntu 20.04 LTS and above. Requires [Libsodium, SECP256K1 and libssl.so.1.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.0.0/README.MD). Please rebuild libsodium using updated instruction for cardano-node/cli 8.0.0.)
+#### Mainnet/Preprod/Preview
 
-[8.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true) (Mainnet)
+[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true) (Mainnet)
+[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true
 ```
 
-[8.2.1-pre](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true) (SanchoNet/Public preview test)
+##
+
+#### SanchoNet/Preprod/Preview
+
+[8.2.1-pre with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
 wget -O cardano-8_2_1_pre-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.2.1/cardano-8_2_1_pre-aarch64-ubuntu_2004.zip?raw=true
 ```
+
+##
 
 ### Additional dynamic binaries
 
@@ -89,5 +103,7 @@ wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-b
 ```
 wget -O cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip?raw=true
 ```
+
+##
 
 ### Official Cardano network environment configuration files can be found [here](https://book.world.dev.cardano.org/environments.html) (Mainnet/Testnets)
