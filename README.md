@@ -12,6 +12,8 @@ BIG Thanks to SPO's [ZW3RK](https://twitter.com/zw3rkpool/) who provides the ama
 
 Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf99120e97aedf84e706e43d829ddc610ad667a85a3) for setting it up and all our members who have contributed 🙏🏴‍☠️
 
+**Older binary versions are found within the respective subfolders
+
 ##
 
 ### Static build (Compatible for all arm based linux. Recommended)
@@ -33,20 +35,20 @@ wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-
 
 #### SanchoNet/Preprod/Preview
 
-[8.6.0-pre with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip?raw=true)
+[8.7.0-pre with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_0_pre-aarch64-static-musl-ghc_963.zip?raw=true)
 
 ```
-wget -O cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip?raw=true
+wget -O cardano-8_7_0_pre-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_0_pre-aarch64-static-musl-ghc_963.zip?raw=true
 ```
 
 ##
 
 ### Additional static binaries
 
-[bech32 1.1.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4.zip?raw=true)
+[cardano-submit-api-3.2.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_0.zip?raw=true)
 
 ```
-wget -O bech32-1_1_4.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4.zip?raw=true
+wget -O cardano-submit-api-3_2_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_0.zip?raw=true
 ```
 
 [bech32 1.1.4.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true)
