@@ -63,6 +63,30 @@ wget -O bech32-1_1_4_1.zip https://github.com/armada-alliance/cardano-node-binar
 wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true
 ```
 
+[db-analyzer (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-analyzer.zip?raw=true)
+
+```
+wget -O db-analyzer.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-analyzer.zip?raw=true
+```
+
+[db-synthesizer (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-synthesizer.zip?raw=true)
+
+```
+wget -O db-synthesizer.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-synthesizer.zip?raw=true
+```
+
+[db-truncator (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-truncator.zip?raw=true)
+
+```
+wget -O db-truncator.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-truncator.zip?raw=true
+```
+
+[immdb-server (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/immdb-server.zip?raw=true)
+
+```
+wget -O immdb-server.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/immdb-server.zip?raw=true
+```
+
 ##
 
 ### Dynamic build (Ubuntu 20.04 LTS and above. Requires [Libsodium, SECP256K1 and libssl.so.1.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.0.0/README.MD). Please rebuild libsodium using updated instruction for cardano-node/cli 8.0.0.)
