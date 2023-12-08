@@ -25,10 +25,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
 ```
 
-[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true)
+[8.7.2 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true)
 
 ```
-wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true
+wget -O cardano-8_7_2-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true
 ```
 
 ##
@@ -45,10 +45,10 @@ wget -O cardano-8_7_1_pre-aarch64-static-musl-ghc_963.zip https://github.com/arm
 
 ### Additional static binaries
 
-[cardano-submit-api-3.2.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_0.zip?raw=true)
+[cardano-submit-api-3.2.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_1.zip?raw=true)
 
 ```
-wget -O cardano-submit-api-3_2_0.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_0.zip?raw=true
+wget -O cardano-submit-api-3_2_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_1.zip?raw=true
 ```
 
 [bech32 1.1.4.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true)
