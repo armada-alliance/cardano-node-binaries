@@ -63,28 +63,28 @@ wget -O bech32-1_1_4_1.zip https://github.com/armada-alliance/cardano-node-binar
 wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true
 ```
 
-[db-analyser (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-analyser.zip?raw=true)
+[db-analyser (ouroboros-consensus-cardano-0.12.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-analyser.zip?raw=true)
 
 ```
-wget -O db-analyser.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-analyser.zip?raw=true
+wget -O db-analyser.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-analyser.zip?raw=true
 ```
 
-[db-synthesizer (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-synthesizer.zip?raw=true)
+[db-synthesizer (ouroboros-consensus-cardano-0.12.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-synthesizer.zip?raw=true)
 
 ```
-wget -O db-synthesizer.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-synthesizer.zip?raw=true
+wget -O db-synthesizer.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-synthesizer.zip?raw=true
 ```
 
-[db-truncater (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-truncater.zip?raw=true)
+[db-truncater (ouroboros-consensus-cardano-0.12.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-truncater.zip?raw=true)
 
 ```
-wget -O db-truncater.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/db-truncater.zip?raw=true
+wget -O db-truncater.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/db-truncater.zip?raw=true
 ```
 
-[immdb-server (ouroboros-consensus-cardano-0.12.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/immdb-server.zip?raw=true)
+[immdb-server (ouroboros-consensus-cardano-0.12.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/immdb-server.zip?raw=true)
 
 ```
-wget -O immdb-server.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.0.0/immdb-server.zip?raw=true
+wget -O immdb-server.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/immdb-server.zip?raw=true
 ```
 
 ##
