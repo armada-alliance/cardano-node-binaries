@@ -87,6 +87,12 @@ wget -O db-truncater.zip https://github.com/armada-alliance/cardano-node-binarie
 wget -O immdb-server.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/immdb-server.zip?raw=true
 ```
 
+[8.7.2 with ghc-9.6.3 (peersharing enabled)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true)
+
+```
+wget -O cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true
+```
+
 ##
 
 ### Dynamic build (Ubuntu 20.04 LTS and above. Requires [Libsodium, SECP256K1 and libssl.so.1.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.0.0/README.MD). Please rebuild libsodium using updated instruction for cardano-node/cli 8.0.0.)
