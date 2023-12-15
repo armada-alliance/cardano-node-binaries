@@ -87,10 +87,10 @@ wget -O db-truncater.zip https://github.com/armada-alliance/cardano-node-binarie
 wget -O immdb-server.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.12.1.0/immdb-server.zip?raw=true
 ```
 
-[8.7.2 with ghc-9.6.3 (peersharing enabled)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true)
+[8.7.2 with ghc-9.6.3 (peersharing enabled)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true)
 
 ```
-wget -O cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true
+wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true
 ```
 
 ##
