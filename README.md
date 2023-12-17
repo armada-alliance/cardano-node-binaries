@@ -43,6 +43,16 @@ wget -O cardano-8_7_1_pre-aarch64-static-musl-ghc_963.zip https://github.com/arm
 
 ##
 
+#### Untested/Unannounced
+
+[8.7.3 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true)
+
+```
+wget -O cardano-8_7_3-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true
+```
+
+##
+
 ### Additional static binaries
 
 [cardano-submit-api-3.2.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_1.zip?raw=true)
