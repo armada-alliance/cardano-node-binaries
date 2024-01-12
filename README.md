@@ -25,10 +25,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
 ```
 
-[8.7.2 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true)
+[8.7.3 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true)
 
 ```
-wget -O cardano-8_7_2-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_2-aarch64-static-musl-ghc_963.zip?raw=true
+wget -O cardano-8_7_3-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true
 ```
 
 ##
@@ -41,15 +41,6 @@ wget -O cardano-8_7_2-aarch64-static-musl-ghc_963.zip https://github.com/armada-
 wget -O cardano-8_7_1_pre-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_1_pre-aarch64-static-musl-ghc_963.zip?raw=true
 ```
 
-##
-
-#### Untested/Unannounced (Use at your own risk)
-
-[8.7.3 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true)
-
-```
-wget -O cardano-8_7_3-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true
-```
 ##
 
 #### Unofficial build(s) (Use at your own risk)
