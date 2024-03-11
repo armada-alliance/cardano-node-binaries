@@ -51,20 +51,28 @@ wget -O cardano-8_8_1_pre-aarch64-static-musl-ghc_964.zip https://github.com/arm
 wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true
 ```
 
+#### Unannounced build(s) (Use at your own risk)
+
+[8.9.0 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true)
+
+```
+wget -O cardano-8_9_0-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true
+```
+
 ##
 
 ### Additional static binaries
 
-[cardano-submit-api-3.2.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_1.zip?raw=true)
+[cardano-submit-api-3.2.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_2.zip?raw=true)
 
 ```
-wget -O cardano-submit-api-3_2_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_1.zip?raw=true
+wget -O cardano-submit-api-3_2_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_2.zip?raw=true
 ```
 
-[bech32 1.1.4.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true)
+[bech32 1.1.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true)
 
 ```
-wget -O bech32-1_1_4_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true
+wget -O bech32-1_1_5.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true
 ```
 
 [cardano-wallet-v2023-07-18](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true)
