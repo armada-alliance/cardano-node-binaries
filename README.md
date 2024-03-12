@@ -31,6 +31,12 @@ wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/
 wget -O cardano-8_7_3-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true
 ```
 
+[8.9.0 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true)
+
+```
+wget -O cardano-8_9_0-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true
+```
+
 ##
 
 #### SanchoNet/Preprod/Preview
@@ -49,14 +55,6 @@ wget -O cardano-8_8_1_pre-aarch64-static-musl-ghc_964.zip https://github.com/arm
 
 ```
 wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true
-```
-
-#### Unannounced build(s) (Use at your own risk)
-
-[8.9.0 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true)
-
-```
-wget -O cardano-8_9_0-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true
 ```
 
 ##
