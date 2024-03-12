@@ -69,16 +69,16 @@ wget -O cardano-8_9_0-aarch64-static-musl-ghc_964.zip https://github.com/armada-
 wget -O cardano-submit-api-3_2_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_2.zip?raw=true
 ```
 
-[bech32 1.1.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true)
+[bech32-1.1.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true)
 
 ```
 wget -O bech32-1_1_5.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true
 ```
 
-[cardano-wallet-v2023-07-18](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true)
+[cardano-wallet-v2024-03-01](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-01-aarch64-musl.zip?raw=true)
 
 ```
-wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true
+wget -O cardano-wallet-v2024-03-01-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-01-aarch64-musl.zip?raw=true
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.14.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.14.0.0/db-analyser.zip?raw=true)
