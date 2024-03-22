@@ -59,6 +59,14 @@ wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/a
 
 ##
 
+#### Unannounced build (Use at your own risk)
+
+[8.9.1 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true)
+
+```
+wget -O cardano-8_9_1-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true
+```
+
 ### Additional static binaries
 
 [cardano-submit-api-3.2.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-submit-api/cardano-submit-api-3_2_2.zip?raw=true)
