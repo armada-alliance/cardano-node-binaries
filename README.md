@@ -19,22 +19,16 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux. Recommended)
 #### Mainnet/Preprod/Preview
 
-[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true)
+[8.9.1 with ghc-9.6.4 (Moritz)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_9_1.zip?raw=true)
 
 ```
-wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
+wget -O 8_9_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_9_1.zip?raw=true
 ```
 
-[8.7.3 with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true)
+[8.9.1 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true)
 
 ```
-wget -O cardano-8_7_3-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_7_3-aarch64-static-musl-ghc_963.zip?raw=true
-```
-
-[8.9.0 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true)
-
-```
-wget -O cardano-8_9_0-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_0-aarch64-static-musl-ghc_964.zip?raw=true
+wget -O cardano-8_9_1-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true
 ```
 
 ##
@@ -58,14 +52,6 @@ wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/a
 ```
 
 ##
-
-#### Unannounced build (Use at your own risk)
-
-[8.9.1 with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true)
-
-```
-wget -O cardano-8_9_1-aarch64-static-musl-ghc_964.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_1-aarch64-static-musl-ghc_964.zip?raw=true
-```
 
 ### Additional static binaries
 
