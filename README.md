@@ -43,12 +43,22 @@ wget -O cardano-8_8_1_pre-aarch64-static-musl-ghc_964.zip https://github.com/arm
 
 ##
 
-#### Unofficial build(s) (Use at your own risk)
+#### Unofficial build(s) (Use with caution)
 
 [8.7.2 with ghc-9.6.3 (peersharing enabled)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true)
 
 ```
 wget -O cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-karknu-8_7_2-aarch64-musl-linux-ghc_963.zip?raw=true
+```
+
+##
+
+#### Unnannounced build(s) (Use with caution)
+
+[8.10.0-pre with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_10_0_pre-aarch64-static-musl-ghc_964.tar.zst?raw=true)
+
+```
+wget -O cardano-8_10_0_pre-aarch64-static-musl-ghc_964.tar.zst https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_10_0_pre-aarch64-static-musl-ghc_964.tar.zst?raw=true
 ```
 
 ##
@@ -67,10 +77,10 @@ wget -O cardano-submit-api-3_2_2.zip https://github.com/armada-alliance/cardano-
 wget -O bech32-1_1_5.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true
 ```
 
-[cardano-wallet-v2024-03-01](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-01-aarch64-musl.zip?raw=true)
+[cardano-wallet-v2024-03-27](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true)
 
 ```
-wget -O cardano-wallet-v2024-03-01-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-01-aarch64-musl.zip?raw=true
+wget -O cardano-wallet-v2024-03-27-aarch64-musl.tar.zst https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.14.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.14.0.0/db-analyser.zip?raw=true)
