@@ -80,7 +80,7 @@ wget -O bech32-1_1_5.zip https://github.com/armada-alliance/cardano-node-binarie
 [cardano-wallet-v2024-03-27](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true)
 
 ```
-wget -O cardano-wallet-v2024-03-27-aarch64-musl.tar.zst https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.14.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.14.0.0/db-analyser.zip?raw=true)
