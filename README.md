@@ -65,10 +65,10 @@ wget -O cardano-submit-api-3_2_2.zip https://github.com/armada-alliance/cardano-
 wget -O bech32-1_1_5.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_5.zip?raw=true
 ```
 
-[cardano-wallet-v2024-03-27](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true)
+[cardano-wallet-v2024-05-05](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-05-05-aarch64-musl.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-03-27-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-05-05-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.14.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.14.0.0/db-analyser.zip?raw=true)
