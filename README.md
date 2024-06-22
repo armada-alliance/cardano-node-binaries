@@ -31,20 +31,12 @@ wget -O 8_9_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_3-aarch64-static-musl-ghc_964.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-#### Preprod/Preview
+#### Preprod/Preview/SanchoNet
 
-[8.11.0-pre with ghc-9.6.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_11_0_pre-aarch64-static-musl-ghc_964.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_11_0_pre-aarch64-static-musl-ghc_964.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-#### SanchoNet
-
-[8.11.0-sancho with ghc-9.6.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_11_0_sancho-aarch64-static-musl-ghc_965.tar.zst?raw=true)
+[8.12.0-pre with ghc-9.6.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_12_0_pre-aarch64-static-musl-ghc_965.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_11_0_sancho-aarch64-static-musl-ghc_965.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_12_0_pre-aarch64-static-musl-ghc_965.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
