@@ -47,34 +47,34 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-07-07-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[db-analyser (ouroboros-consensus-cardano-0.17.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-analyser.tar.zst?raw=true)
+[db-analyser (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-analyser.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-analyser.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-analyser.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[db-synthesizer (ouroboros-consensus-cardano-0.17.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-synthesizer.tar.zst?raw=true)
+[db-synthesizer (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-synthesizer.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-synthesizer.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-synthesizer.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[db-truncater (ouroboros-consensus-cardano-0.17.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-truncater.tar.zst?raw=true)
+[db-truncater (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-truncater.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-truncater.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-truncater.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[immdb-server (ouroboros-consensus-cardano-0.17.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/immdb-server.tar.zst?raw=true)
+[immdb-server (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/immdb-server.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/immdb-server.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/immdb-server.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[db-immutaliser (ouroboros-consensus-cardano-0.17.1.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-immutaliser.tar.zst?raw=true)
+[db-immutaliser (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-immutaliser.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.17.1.0/db-immutaliser.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-immutaliser.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 ##
