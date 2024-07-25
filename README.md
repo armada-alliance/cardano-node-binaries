@@ -19,22 +19,16 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux)
 #### Mainnet/Preprod/Preview/SanchoNet
 
-[9.0.0 with ghc-9.6.4 (Moritz)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/9_0_0.tar.zst?raw=true)
+[9.1.0 with ghc-9.6.4 (Moritz)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/9_1_0.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/9_0_0.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/9_1_0.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-[8.9.4 with ghc-9.6.5](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_4-aarch64-static-musl-ghc_965.tar.zst?raw=true)
+[9.1.0 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_0-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_9_4-aarch64-static-musl-ghc_965.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-[9.0.0 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_0_0-aarch64-static-musl-ghc_966.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_0_0-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_0-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
