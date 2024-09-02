@@ -25,10 +25,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/9_1_0.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-[9.1.0 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_0-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+[9.1.1 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_1-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_0-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_1_1-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
