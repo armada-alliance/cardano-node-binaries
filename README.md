@@ -53,10 +53,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-07-07-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[mithril version 2430.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2430_0.tar.zst?raw=true)
+[mithril version 2437.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2437_1.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2430_0.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2437_1.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.18.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.18.0.0/db-analyser.tar.zst?raw=true)
