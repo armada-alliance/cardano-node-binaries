@@ -84,10 +84,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.19.0.0/db-immutaliser.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[cncli-v6.3.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_3_0.tar.zst?raw=true)
+[cncli-v6.4.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_4_1.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_3_0.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_4_1.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 ##
