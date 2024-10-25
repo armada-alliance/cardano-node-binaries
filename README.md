@@ -33,10 +33,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 #### Preprod/Preview/SanchoNet
 
-[10.0.0-pre with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_0_0_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+[10.1.1-pre with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_0_0_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
@@ -49,10 +49,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-09-29-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[mithril version 2437.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2437_1.tar.zst?raw=true)
+[mithril version 2442.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2442_0.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2437_1.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2442_0.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [db-analyser (ouroboros-consensus-cardano-0.19.0.0)](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.19.0.0/db-analyser.tar.zst?raw=true)
