@@ -31,12 +31,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-9_2_1-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-#### Preprod/Preview/SanchoNet
-
-[10.1.1-pre with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+[10.1.1 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1_pre-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_1-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
