@@ -31,6 +31,14 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_2-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
+#### Unannounced
+
+[10.1.3 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_3-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+
+```
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_3-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+```
+
 ##
 
 ### Additional static binaries
