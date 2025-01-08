@@ -19,20 +19,20 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux)
 #### Mainnet/Preprod/Preview/SanchoNet
 
-[10.1.3 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_3-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+[10.1.4 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_4-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_3-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_4-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
 
 ### Additional static binaries
 
-[cardano-wallet-v2024-11-18](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-11-18-aarch64-musl.tar.zst?raw=true)
+[cardano-wallet-v2025-01-07](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-07-aarch64-musl.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2024-11-18-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-07-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [mithril version 2450.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2450_0.tar.zst?raw=true)
