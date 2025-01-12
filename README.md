@@ -27,6 +27,16 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ##
 
+### Cardano CLI only
+
+[cardano-cli-10.2.0.0 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_2_0_0-aarch64-static-musl-ghc_966.tar.zst?raw=true)
+
+```
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_2_0_0-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
+```
+
+##
+
 ### Additional static binaries
 
 [cardano-wallet-v2025-01-07](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-07-aarch64-musl.tar.zst?raw=true)
