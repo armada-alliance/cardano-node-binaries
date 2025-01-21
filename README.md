@@ -39,10 +39,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ### Additional static binaries
 
-[cardano-wallet-v2025-01-07](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-07-aarch64-musl.tar.zst?raw=true)
+[cardano-wallet-v2025-01-09](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-09-aarch64-musl.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-07-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-09-aarch64-musl.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 [mithril version 2450.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/mithril-binaries-version-2450_0.tar.zst?raw=true)
