@@ -33,6 +33,12 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_0-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
+[10.2.0 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
+
+```
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
+```
+
 ##
 
 ### Cardano CLI only
