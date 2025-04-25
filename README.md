@@ -31,8 +31,6 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-#### Pre-release (Not recommended for mainnet)
-
 [10.3.1 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_3_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
 
 ```
@@ -41,7 +39,7 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ##
 
-### Cardano CLI only
+### Cardano CLI only (Outdated. Latest version packaged with cardano-node)
 
 [cardano-cli-10.2.0.0 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_2_0_0-aarch64-static-musl-ghc_966.tar.zst?raw=true)
 
