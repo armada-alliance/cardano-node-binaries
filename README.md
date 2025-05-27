@@ -19,26 +19,6 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux)
 #### Mainnet/Preprod/Preview/SanchoNet
 
-[10.1.4 with ghc-9.6.6](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_4-aarch64-static-musl-ghc_966.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_1_4-aarch64-static-musl-ghc_966.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-[10.2.1 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_2_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-[10.3.1 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_3_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_3_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-#### Preprod/Preview/SanchoNet
-
 [10.4.1 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_4_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
 
 ```
