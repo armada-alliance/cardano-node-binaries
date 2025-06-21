@@ -25,6 +25,14 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_4_1-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
+#### Preprod/Preview/SanchoNet
+
+[10.5.0 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_5_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
+
+```
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_5_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
+```
+
 ##
 
 ### Cardano CLI only
