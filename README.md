@@ -101,10 +101,10 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.25.1.0/snapshot-converter.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
-[cncli-v6.5.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_5_1.tar.zst?raw=true)
+[cncli-v6.6.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_6_0.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_5_1.tar.zst?raw=true -O - | tar -I zstd -x
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_6_0.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 ##
