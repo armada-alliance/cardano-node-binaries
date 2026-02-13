@@ -27,20 +27,20 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 #### Preprod/Preview/SanchoNet
 
-[10.6.1 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_6_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
+[10.6.2 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_6_2-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_6_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_6_2-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
 
-### Cardano CLI only (outdated)
+### Cardano CLI only
 
-[cardano-cli-10.11.0.0 with ghc-9.10.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_11_0_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true)
+[cardano-cli-10.15.0.0 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_15_0_0-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_11_0_0-aarch64-static-musl-ghc_9101.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_15_0_0-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
