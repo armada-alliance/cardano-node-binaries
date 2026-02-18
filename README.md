@@ -25,8 +25,6 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_5_4-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
-#### Preprod/Preview/SanchoNet
-
 [10.6.2 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_6_2-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
 ```
@@ -110,4 +108,5 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 ##
 
 ### Official Cardano network environment configuration files can be found [here](https://book.world.dev.cardano.org/environments.html) (Mainnet/Testnets)
+
 
