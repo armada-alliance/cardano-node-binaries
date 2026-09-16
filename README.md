@@ -19,21 +19,15 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux)
 #### Mainnet/Preprod/Preview/SanchoNet
 
-[10.7.1 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_7_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
+[11.1.1 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-10_7_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
-```
-
-[11.0.1 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_0_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_0_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
 
-### Cardano CLI only
+### Cardano CLI only (outdated - use version packaged with cardano-node above)
 
 [cardano-cli-10.15.0.0 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-cli-10_15_0_0-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
@@ -43,7 +37,7 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ##
 
-### Additional static binaries
+### Additional static binaries (outdated)
 
 [cardano-wallet-v2025-01-09](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-09-aarch64-musl.tar.zst?raw=true)
 
