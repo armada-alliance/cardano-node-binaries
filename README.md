@@ -19,10 +19,10 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux)
 #### Mainnet/Preprod/Preview/SanchoNet
 
-[11.1.1 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
+[11.1.2 with ghc-9.12.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_2-aarch64-static-musl-ghc_9122.tar.zst?raw=true)
 
 ```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_1-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-11_1_2-aarch64-static-musl-ghc_9122.tar.zst?raw=true -O - | tar -I zstd -xv
 ```
 
 ##
