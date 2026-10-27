@@ -37,6 +37,16 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ##
 
+### CNCLI
+
+[cncli-v6.8.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_8_3.tar.zst?raw=true)
+
+```
+wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_8_3.tar.zst?raw=true -O - | tar -I zstd -x
+```
+
+##
+
 ### Additional static binaries (outdated)
 
 [cardano-wallet-v2025-01-09](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2025-01-09-aarch64-musl.tar.zst?raw=true)
@@ -91,12 +101,6 @@ wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/stati
 
 ```
 wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/ouroboros-consensus-cardano-0.25.1.0/snapshot-converter.tar.zst?raw=true -O - | tar -I zstd -x
-```
-
-[cncli-v6.7.0](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_7_0.tar.zst?raw=true)
-
-```
-wget -c https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cncli-v6_7_0.tar.zst?raw=true -O - | tar -I zstd -x
 ```
 
 ##
